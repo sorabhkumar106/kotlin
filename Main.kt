@@ -1,0 +1,47 @@
+fun main(args : Array<String>) {
+//    var obj = kotlin_1_Variables()
+//    obj.Variable()
+//    var obj=Kotlin_2_DataType()
+//    obj.dataType()
+//    var obj = kotlin_3_TypeConversion()
+//    obj.typeConversion()
+//    var obj = Kotlin_4_Operator()
+//    obj.arithmeticalOperator()
+//    obj.relationalOperator()
+//    obj.assignmentOperator()
+//obj.unaryOperator()
+//    var obj=Kotlin_5_TakingInputFronUsert()
+//        obj.buyGroceries()
+//    var obj=Kotlin_6_IfExpression()
+//   println( obj.isAdult())
+//    println(obj.whichDeveloper())
+//    obj.buyJioSim()
+//    var obj=Kotlin_7_WhenExpression()
+//    obj.findDay()
+//    var obj=Kotlin_8_ForLoop()
+//    obj.forloopEx()
+//    var obj=Kotlin_9_Do_DoWhilelLoop()
+//    obj.whileLoop()
+//    var obj=Kotlin_10_breakStatement()
+//    obj.breakStatement()
+//    var obj=Kotlin_11_continuestatement()
+//    obj.continueStatement()
+//    var obj=Kotlin_12_Function()
+//    println(obj.add(2,76))
+//    obj.printSomthing("you are great bro")
+//    var obj=Kotlin_13_DefaultAndNamedArgument()
+//    obj.namedArgument()
+//    var obj=Kotlin_14_AnonymousOrLamdaFunction()
+//   println( obj.addition(6,8))
+//fun add(a :Int, b :Int) :Int{
+//    return a+b
+//}
+//    fun showing(str :String){
+//        println(str)
+//    }
+//    var obj =Kotlin_15_HigherOrderFunction()
+//    obj.addition(6,9,::add)
+//    obj.show("faster corp is an tech giant",::showing)
+    var arr = Array(5, (Int)->String)
+}
+}
