@@ -42,6 +42,7 @@ fun main(args : Array<String>) {
 //    var obj =Kotlin_15_HigherOrderFunction()
 //    obj.addition(6,9,::add)
 //    obj.show("faster corp is an tech giant",::showing)
-    var arr = Array(5, (Int)->String)
-}
+val obj=Kotlin_17_String()
+    obj.stringProperties()
+    obj.stringFunctions()
 }
